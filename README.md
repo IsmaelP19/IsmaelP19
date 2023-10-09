@@ -1,14 +1,12 @@
-<h1 align="left">Hey there 👋!</h1>
+# Hey there 👋! 
 
-###
+### I'm Ismael Pérez Ortiz, a software engineer graduated on Universidad de Sevilla (US)
 
-<h3 align="left">I'm Ismael Pérez Ortiz, a software engineer graduated on Universidad de Sevilla (US)</h3>
+- 👨‍💻 I'm currently learning fullstack technologies
+- 💙 In love with web development
+- 🎯 2023 goals: publish my social network for finding flatmates ➡️ [Get in Couch](https://github.com/IsmaelP19/Get-in-Couch) ✅
+- 🍿 I love to Netflix and chill
 
-###
-
-<h3 align="left">👨‍💻 I'm currently learning fullstack technologies <br>💙 In love with web development <br>🎯 2023 goals: publish my social network for finding flatmates (soon available for everyone)<br>🍿 I love to Netflix and chill</h3>
-
-###
 
 <br clear="both">
 
@@ -18,11 +16,11 @@
   <img src="https://streak-stats.demolab.com?user=IsmaelP19&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=M j[, Y]&order=3" height="170" alt="streak graph"  />
 </div>
 
-###
 
-<h3 align="left">✨ My Stack:</h3>
+### ✨ My Stack:
 
-###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -58,9 +56,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
-###
 
-<h3 align="left">📬 Ways to reach me:</h3>
+<br />
+
+
+### 📬 Ways to reach me:
 
 ###
 
