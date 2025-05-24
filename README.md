@@ -4,7 +4,6 @@
 
 - 👨‍💻 I'm currently learning fullstack technologies
 - 💙 In love with web development
-- 🎯 2023 goals: publish my social network for finding flatmates ➡️ [Get in Couch](https://github.com/IsmaelP19/Get-in-Couch) ✅
 - 🍿 I love to Netflix and chill
 
 
